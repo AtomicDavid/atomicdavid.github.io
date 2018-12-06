@@ -1,6 +1,6 @@
 
 {
-   "id": 1,
+   "assetId": 1,
    "history": 
    [
       {
@@ -25,5 +25,5 @@
          "close":432.59
       }
    ],
-   "status": 0
+   "count": 3,
 }
